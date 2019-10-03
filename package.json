@@ -1,0 +1,15 @@
+{
+  "name": "craco-sentry-plugin",
+  "version": "0.0.0",
+  "description": "A craco plugin to add @sentry/webpack-plugin to a create-react-app project",
+  "main": "index.js",
+  "repository": "git@github.com:chrisinajar/craco-sentry-plugin.git",
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@craco/craco": "^5.5.0"
+  },
+  "dependencies": {
+    "@sentry/webpack-plugin": "^1.8.1"
+  }
+}
